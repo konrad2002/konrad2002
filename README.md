@@ -1,6 +1,6 @@
 Hi, I am Konrad👋 and a computer science student at Technical University of Munich 📚.
 
-![](https://github-readme-stats.vercel.app/api/?username=konrad2002)
+![](https://github-readme-stats.vercel.app/api/?username=konrad2002&theme=transparent)
 
 [![github](https://img.shields.io/github/followers/konrad2002?logo=github&style=flat-square)](https://github.com/konrad2002?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/c815fb75-a23b-4831-b153-0f2e66f77e07.svg?style=flat-square)](https://wakatime.com/@c815fb75-a23b-4831-b153-0f2e66f77e07)
