@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I am Konrad👋 and a computer science student at Technical University of Munich 📚.
+
+!(https://github-readme-stats.vercel.app/api/?username=konrad2002)[]
 
 <!--
 **konrad2002/konrad2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
