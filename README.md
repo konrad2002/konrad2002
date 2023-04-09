@@ -1,9 +1,9 @@
 Hi, I am Konrad👋 and a computer science student at Technical University of Munich 📚.
 
-Currently working on:
- - 🏊 [SwimResults](https://github.com/SwimResults)
- - 🌎 [MyPlayPlanet.net](https://myplayplanet.net)
- - 🐺 [GrexCraft.net](https://github.com/GrexCraft)
+Currently working on (and with):
+ - 🏊 [SwimResults](https://github.com/SwimResults) (Go, Angular, MongoDB)
+ - 🌎 [MyPlayPlanet.net](https://myplayplanet.net) (Angular, Keycloak, SpringBoot)
+ - 🐺 [GrexCraft.net](https://github.com/GrexCraft) (Java, Docker)
 
 ![](https://github-readme-stats.vercel.app/api/?username=konrad2002&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=7a8490&title_color=ffffff)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=konrad2002&layout=compact&langs_count=22&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=7a8490&title_color=ffffff)
