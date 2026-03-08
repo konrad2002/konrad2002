@@ -7,6 +7,8 @@ Currently working on (and with):
  - 🏆 [tMate - Club Member Management](https://github.com/konrad2002/tmate) (Go, Angular, MongoDB)
  - 🏊 New Website 'ST Erzgebirge' (React, Next.js, TypeScript)
 
+Full list of [projects](https://weiss-konrad.de/projects) and my [/now page](https://weiss-konrad.de/now) can be find on my [website](https://weiss-konrad.de/).
+
 ![](https://github-readme-stats.vercel.app/api?username=konrad2002&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=7a8490&title_color=ffffff)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=konrad2002&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=7a8490&title_color=ffffff)
 
