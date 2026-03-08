@@ -3,9 +3,11 @@ Hi, I am Konrad👋 and a computer science student at Technical University of Mu
 Currently working on (and with):
  - 🏊 [SwimResults](https://github.com/SwimResults) (Go, Angular, MongoDB, Docker, GH Actions, SwiftUI, Keycloak)
  - 🌎 [MyPlayPlanet.net](https://myplayplanet.net) (Angular, Keycloak, SpringBoot, Docker, GitLab CI)
- - 🐺 [GrexCraft.net](https://github.com/GrexCraft) (Java, Docker)
+ - 🎼 [Virtual Eitz Harmonium](https://harmonium.weiss-konrad.de/) (React, TypeScript, Tone.js)
+ - 🏆 [tMate - Club Member Management](https://github.com/konrad2002/tmate) (Go, Angular, MongoDB)
+ - 🏊 New Website 'ST Erzgebirge' (React, Next.js, TypeScript)
 
-![](https://github-readme-stats.vercel.app/api/?username=konrad2002&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=7a8490&title_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=konrad2002&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=7a8490&title_color=ffffff)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=konrad2002&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=7a8490&title_color=ffffff)
 
 [![github](https://img.shields.io/github/followers/konrad2002?logo=github&style=flat-square)](https://github.com/konrad2002?tab=followers)
